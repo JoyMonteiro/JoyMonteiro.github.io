@@ -1,3 +1,3 @@
 # Weather, Climate and People
 
-![This is me.]({{ site.url }}/media/profile.jpg)
+![This is me.](media/profile.jpg)
