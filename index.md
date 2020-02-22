@@ -1,12 +1,13 @@
 # Joy Merwin Monteiro
 
+<p>
 <p style="text-align:left;">
   <img src="media/profile.jpg" width="250"/></p>
 <p style="text-align:right;">
   Department of Earth and Climate Science,<br>
   IISER Pune, Dr. Homi Bhabha Road,<br>
   Pashan, Pune : 411008, INDIA.</p>
-
+</p>
 ## About
 We aim to be a curiosity-driven group exploring different aspects of weather and climate.
 We use a wide range of approaches -- theoretical, computational and observational -- to study
