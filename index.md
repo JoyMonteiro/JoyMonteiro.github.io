@@ -1,3 +1,3 @@
 # Weather, Climate and People
 
-![This is me.](media/profile.jpg)
+<img src="media/profile.jpg" width="300" />
