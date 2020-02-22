@@ -13,7 +13,7 @@ We use a wide range of approaches -- theoretical, computational and observationa
 phenomena that we find fascinating. We enjoy working on idealised, abstract questions as well
 as applied, socially relevant ones.
 
-We are extremely interested in interdisciplinary topics, and encourage looking at questions
+We are extremely interested in interdisciplinary research, and encourage looking at questions
 from a broader perspective.
 
 ## Current interests
