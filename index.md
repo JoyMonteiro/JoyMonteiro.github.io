@@ -1,6 +1,6 @@
 # Joy Merwin Monteiro
 
-<p style="text-align:right;">
+<p style="text-align:left;">
   <img src="media/profile.jpg" width="250"/></p>
 <p style="text-align:right;">
   Department of Earth and Climate Science,<br>
