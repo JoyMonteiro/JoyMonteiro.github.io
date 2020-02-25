@@ -27,7 +27,7 @@ We are currently interested in the following themes:
 * Rossby wave packets and their role in shaping South Asian climate.
 
 ## Positions available
-I am actively looking to work with students interested delve deeper into climate
+I am actively looking to work with students interested to delve deeper into climate
 science. I encourage students to find questions that they find motivating. 
 
 If you  are interested to work with me,
