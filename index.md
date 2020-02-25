@@ -10,6 +10,7 @@
 
   </span>
 </p>
+
 ## About
 We aim to be a curiosity-driven group exploring different aspects of weather and climate.
 We use a wide range of approaches -- theoretical, computational and observational -- to study
@@ -26,9 +27,11 @@ We are currently interested in the following themes:
 * Rossby wave packets and their role in shaping South Asian climate.
 
 ## Positions available
-I am actively looking to work with students curious to take a deeper look into climate
-science. I encourage students to find questions that they find motivating. Therefore,
-it is best if students contact me as early as possible to discuss questions of mutual interest.
+I am actively looking to work with students interested delve deeper into climate
+science. I encourage students to find questions that they find motivating. 
+
+If you  are interested to work with me,
+it is best if you contact me as early as possible to discuss questions of mutual interest.
 
 [Take a look](https://scholar.google.com/citations?user=bMU4QficRmcC&hl=en) at my publications
 and see if any topics interest you!
