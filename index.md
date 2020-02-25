@@ -7,6 +7,7 @@
   IISER Pune, Dr. Homi Bhabha Road,<br>
   Pashan, Pune : 411008, INDIA.    </span>
 </p>
+
 ## About
 We aim to be a curiosity-driven group exploring different aspects of weather and climate.
 We use a wide range of approaches -- theoretical, computational and observational -- to study
