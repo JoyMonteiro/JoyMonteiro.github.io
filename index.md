@@ -5,7 +5,10 @@
     <span style="float:right;">
   Department of Earth and Climate Science,<br>
   IISER Pune, Dr. Homi Bhabha Road,<br>
-  Pashan, Pune : 411008, INDIA.    </span>
+  Pashan, Pune : 411008, INDIA. <br>
+  <img src="media/contact.png" width="150"/>
+
+  </span>
 </p>
 ## About
 We aim to be a curiosity-driven group exploring different aspects of weather and climate.
