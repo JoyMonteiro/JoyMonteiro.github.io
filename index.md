@@ -25,8 +25,10 @@ We are currently interested in the following themes:
 
 ## Positions available
 I am actively looking to work with students interested delve deeper into climate
-science. I encourage students to find questions that they find motivating. Therefore,
-it is best if students contact me as early as possible to discuss questions of mutual interest.
+science. I encourage students to find questions that they find motivating. 
+
+If you  are interested to work with me,
+it is best if you contact me as early as possible to discuss questions of mutual interest.
 
 [Take a look](https://scholar.google.com/citations?user=bMU4QficRmcC&hl=en) at my publications
 and see if any topics interest you!
