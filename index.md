@@ -35,3 +35,6 @@ it is best if you contact me as early as possible to discuss questions of mutual
 
 [Take a look](https://scholar.google.com/citations?user=bMU4QficRmcC&hl=en) at my publications
 and see if any topics interest you!
+
+## Teaching
+Please find the online lectures [here](./ecs323.md) for the Applied Math Methods course ECS323.
