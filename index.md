@@ -27,7 +27,7 @@ We are currently interested in the following themes:
 * Rossby wave packets and their role in shaping South Asian climate.
 
 ## Teaching
-Please find the online lectures [here](./ecs323.md) for the Applied Math Methods course ECS323.
+* [Applied Math Methods course ECS323](./ecs323.md)
 
 ## Positions available
 I am actively looking to work with students interested to delve deeper into climate
