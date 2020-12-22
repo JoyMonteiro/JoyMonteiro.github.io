@@ -39,6 +39,7 @@ We are currently interested in the following themes:
 ### Masters
 
 * Jenix Justine from [ACCER](http://accer.kau.in/) (August 2020 -- ) Wetbulb temperature dynamics in South Asia
+* Nirmal Alex from [CUSAT](https://cusat.ac.in/) (October 2020 -- ) Chapel as a HPC language for climt
 
 ### Undergraduate
 
