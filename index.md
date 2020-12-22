@@ -63,8 +63,10 @@ We are currently interested in the following themes:
 * Kadir Pathan from Pune Knowledge Cluster (October 2020 -- )
 * Devendra Vavale from Pune University (October 2020 -- November 2020)
 
+## Grants
 
-#### 
+* IISER Intramural Grant, 2020: 15 lakhs
+* DST Startup Grant 2020-2022: 30 lakhs
 
 
 ## Positions
