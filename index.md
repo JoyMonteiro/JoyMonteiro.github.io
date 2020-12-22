@@ -29,12 +29,47 @@ We are currently interested in the following themes:
 ## Teaching
 * [Applied Math Methods course ECS323](./ecs323.md)
 
-## Positions available
-I am actively looking to work with students interested to delve deeper into climate
-science. I encourage students to find questions that they find motivating. 
 
-If you  are interested to work with me,
-it is best if you contact me as early as possible to discuss questions of mutual interest.
+## Students who have worked with me
+
+### Ph.D
+
+* Hardik Shah (August 2020 -- )
+
+### Masters
+
+* Jenix Justine from [ACCER](http://accer.kau.in/) (August 2020 -- ) Wetbulb temperature dynamics in South Asia
+
+### Undergraduate
+
+#### BS/MS Thesis
+
+* Abel Shibu from IISER Pune (June -- July 2020) Adding a bucket hydrology component to climt.
+* Ashok Dharavath from IISER Pune (October 2020 -- ) PDFs of temperature and humidity in South Asia.
+
+#### B.Tech interns
+
+1. Curating LST and near surface data from satellites and reanalysis (MIT-WPU, Pune)
+    * Ahmad Jamal
+    * Pratik Gorade
+    * Rishikesh Gadade
+
+
+#### COVID-19 data analysis for Pune Municipal Corporation
+
+* Shweta Kadu from Babasaheb Garware College (June 2020 -- )
+* Nikita Raut from Babasaheb Garware College (June 2020 -- )
+* Arsh Shaikh from IISER Pune (July 2020 -- )
+* Kadir Pathan from Pune Knowledge Cluster (October 2020 -- )
+* Devendra Vavale from Pune University (October 2020 -- November 2020)
+
+
+#### 
+
+
+## Positions
+I am not actively looking for students right now. However, feel free to write
+to me if you find any of our work interesting!
 
 [Take a look](https://scholar.google.com/citations?user=bMU4QficRmcC&hl=en) at my publications
 and see if any topics interest you!
