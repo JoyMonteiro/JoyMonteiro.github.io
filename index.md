@@ -27,42 +27,11 @@ We are currently interested in the following themes:
 * Rossby wave packets and their role in shaping South Asian climate.
 
 ## Teaching
-* [Applied Math Methods course ECS323](./ecs323.md)
+* [Applied Math Methods course ECS323](./ecs323.md) (Aug 2020)
+* [Physical Oceanography (ECS461)](./ecs461.md) (Jan 2021)
 
-
-## Students who have worked with me
-
-### Ph.D
-
-* Hardik Shah (August 2020 -- )
-
-### Masters
-
-* Jenix Justine from [ACCER](http://accer.kau.in/) (August 2020 -- ) Wetbulb temperature dynamics in South Asia
-* Nirmal Alex from [CUSAT](https://cusat.ac.in/) (October 2020 -- ) Chapel as a HPC language for climt
-
-### Undergraduate
-
-#### BS/MS Thesis
-
-* Abel Shibu from IISER Pune (June -- July 2020) Adding a bucket hydrology component to climt.
-* Ashok Dharavath from IISER Pune (October 2020 -- ) PDFs of temperature and humidity in South Asia.
-
-#### B.Tech interns
-
-1. Curating LST and near surface data from satellites and reanalysis (MIT-WPU, Pune)
-    * Ahmad Jamal
-    * Pratik Gorade
-    * Rishikesh Gadade
-
-
-#### COVID-19 data analysis for Pune Municipal Corporation
-
-* Shweta Kadu from Babasaheb Garware College (June 2020 -- )
-* Nikita Raut from Babasaheb Garware College (June 2020 -- )
-* Arsh Shaikh from IISER Pune (July 2020 -- )
-* Kadir Pathan from Pune Knowledge Cluster (October 2020 -- )
-* Devendra Vavale from Pune University (October 2020 -- November 2020)
+## Students
+[Current and Alumni Page](./students.md)
 
 ## Grants
 
