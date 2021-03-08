@@ -27,7 +27,6 @@ We are currently interested in the following themes:
 * Rossby wave packets and their role in shaping South Asian climate.
 
 ## Teaching
-* [Applied Math Methods course ECS323](./ecs323.md) (Aug 2020)
 * [Physical Oceanography (ECS461)](./ecs461.md) (Jan 2021)
 * [Principles of Planetary Climate (EC2213)](./ec2213.md) (Jan 2021)
 
