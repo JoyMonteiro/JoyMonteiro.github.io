@@ -26,10 +26,6 @@ We are currently interested in the following themes:
 * [New approaches](https://github.com/CliMT/climt) to climate modelling.
 * Rossby wave packets and their role in shaping South Asian climate.
 
-## Teaching
-* [Physical Oceanography (ECS461)](./ecs461.md) (Jan 2021)
-* [Principles of Planetary Climate (EC2213)](./ec2213.md) (Jan 2021)
-
 ## Students
 [Current and Alumni Page](./students.md)
 
