@@ -1,0 +1,396 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<style>
+				* {
+				  box-sizing: border-box;
+				}
+
+				.row {
+				  display: flex;
+				}
+
+				/* Create three equal columns that sits next to each other */
+				.column {
+				  display: flex;
+				  padding: 5px;
+					-ms-align-items: center;
+					align-items: center;
+				}
+		</style>
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/league.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h2>COVID-19 Data and Analysis</h2>
+					<h3>The Pune experience</h3>
+					<p>Joy Merwin Monteiro</p>
+					<p><small>Earth and Climate Science</small></p>
+					<img height="150px" src="images/IISER.jpeg" alt="">
+				</section>
+
+				<section>
+					<h3>We are...</h3>
+					<img src="images/ppl_wordcloud.png" alt="">
+				</section>
+				<section>
+					<section>
+						<h3>Pune &mdash; Dense and Urban</h3>
+						15000 sq. km
+						<img src="images/pune_demographics.png" height="450px" alt="">
+						<small>pune.gov.in</small>
+
+					</section>
+
+				<section>
+					<h3>7000 sq. km, 7.2 million people</h3>
+						<img src="images/pmrdahqmap.jpg" height="500px" alt="">
+						<div>
+						<small>pmrda.gov.in</small>
+						</div>
+				</section>
+
+				</section>
+
+				<section>
+					<h3>Timeline</h3>
+
+					<div class="r-stack">
+						<img src="images/first_case.png" width="600" class="fragment fade-in-then-out">
+						<img src="images/march_lockdown.png" width="600" class="fragment fade-in-then-out">
+						<img src="images/unlock1.png" width="600" class="fragment fade-in-then-out">
+						<img src="images/unlock2.png" width="600" class="fragment fade-in-then-out">
+						<img src="images/july2020_lockdown.png" width="600" class="fragment fade-in-then-out">
+						<img src="images/unlock3.png" width="600" class="fragment fade-in-then-out">
+						<img src="images/lockdown_apr2021.png" width="600" class="fragment fade-in-then-out">
+						<img src="images/unlock_current.png" width="600" class="fragment fade-in-then-out">
+					</div>
+
+				</section>
+
+				<section>
+					<h3>Weekly Cases</h3>
+					<img src="images/weekly_cases.png" width="800">
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>"Construction" of data</h2>
+				</section>
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<div class="row">
+						<div class="column">
+							<img src="images/DataFlow.png" height="650" alt="">
+						</div>
+					</div>
+
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>All that gleams...</h2>
+					<div class="row">
+						<div class="column">
+							<img src="images/DataFlow.png" height="100" alt="">
+						</div>
+						<div class="column">
+							&rarr;
+						</div>
+						<div class="column">
+							<img src="images/format_d.png" width="800" alt="">
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h2>Challenges</h2>
+					<ul>
+						<li class="fragment">Information Silos</li>
+						<li class="fragment">Process rather than Person</li>
+						<li class="fragment">Digital Literacy: Curation for whom?</li>
+						<li class="fragment">Language</li>
+						<li class="fragment">Operational Pressures</li>
+					</ul>
+				</section>
+
+				<section>
+
+
+				<section>
+					<h2>Data!</h2>
+
+					<ul>
+						<li class="fragment">Transparency &mdash; not everything is politics</li>
+						<li class="fragment">Academics not (always) after publications</li>
+					</ul>
+				</section>
+
+				<section>
+						Administration-Academia collaboration
+						<p style="color:orangered; font-size:60px">Viable</p>
+				</section>
+
+				<section>
+					<h2>PMC-PKC Synergy</h2>
+
+					<ul>
+						<li class="fragment">Politicians, Press, Public</li>
+						<li class="fragment">Different data needed to study epidemic!</li>
+						<li class="fragment">Time and Ability</li>
+						<li class="fragment">Highly Skilled, Informed, Networked</li>
+					</ul>
+				</section>
+
+					<section>
+							Administration-Academia collaboration
+							<p style="color:orangered; font-size:60px">Viable</p>
+							<p style="color:orangered; font-size:60px">Necessary</p>
+					</section>
+
+				</section>
+
+				<section>
+					<h3>The Five stages of <del style="color:black"><span style="color:white">grief</span></del> Epi-surveillance</h3>
+				</section>
+
+				<section>
+					<section>
+						<h2>1: Containment</h2>
+							<p style="font-size:40px; color:orangered">Undetected cases</p>
+								<p >
+								<ul style="font-size:30px">
+									<li class="fragment">Number of contacts traced</li>
+									<li class="fragment">Where to test?</li>
+									<li class="fragment">Lockdowns</li>
+									<li class="fragment">Case Fatality Rate, Test Positivity</li>
+								</ul>
+								</p>
+
+					</section>
+
+					<section>
+						<h3>CFR vs. TP</h3>
+
+						<img src="images/cfr_vs_tp.jpg" alt="">
+					</section>
+
+
+
+					</section>
+
+
+					<section>
+						<h3>Incidence</h3>
+						<div class="r-stack">
+							<img src="images/Incidence_2020-05-01.png" width="600" class="fragment fade-in-then-out">
+							<img src="images/Incidence_2021-03-01.png" width="600" class="fragment fade-in-then-out">
+						</div>
+					</section>
+
+					<section>
+						<h3>CFR</h3>
+						<div class="r-stack">
+							<img src="images/CFR_2020-09-01.png" width="600" class="fragment fade-in-then-out">
+							<img src="images/CFR_2021-04-15.png" width="600" class="fragment fade-in-then-out">
+						</div>
+					</section>
+
+					<section>
+						<img src="images/IE_JoyAjit.png" alt="">
+					</section>
+
+					<section>
+						<h3>Lockdown Effectiveness</h3>
+						<div class="r-stack">
+
+						<div  class="fragment fade-in-then-out">
+							<p>
+						<img src="images/cases_over_time.png" width="700">
+						</p>
+						<small>
+						<div>Mave et al., (2021)</div>
+						</small>
+						</div>
+						<img src="images/weekly_cases.png" width="800" class="fragment fade-in-then-out">
+					</div>
+
+				</section>
+
+				<section>
+					<section>
+						<h2>2: Outcomes</h2>
+						<p style="font-size:40px; color:orangered">Disease Severity</p>
+						<ul>
+							<li class="fragment">Ventilator/ICU requirements</li>
+							<li class="fragment">Hospitalization</li>
+							<li class="fragment">Comorbidity-Death Analysis</li>
+							<li class="fragment">Serosurvey and Infection Fatality Rate</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>Epidemiological Modelling</h3>
+						<img src="images/forecasts.png" height=500px alt="">
+						<div><small>Hazra et al., 2021</small></div>
+
+					</section>
+
+					<section>
+						<h3>Time spent in hospitals</h3>
+						<div class="r-stack">
+							<img src="images/hospital_duration.png" width="800" class="fragment fade-in-then-out">
+						<div class="fragment">
+							<img src="images/clinical_course.jpg" width="1000">
+						<small>
+						<div>Zhou et al., 2020</div>
+						</small>
+						</div>
+						</div>
+
+
+					</section>
+
+					<section>
+						<h3>Serological Survey</h3>
+						<img src="images/IFR.jpg" height=400px alt="">
+						<small>
+						<div>Ghose et al., 2020</div>
+						</small>
+						<p class="fragment">20-30x undercount (Aug 2020) of cases (not deaths!)</p>
+
+					</section>
+
+				</section>
+
+				<section>
+					<section>
+						<h2>3: End of Wave</h2>
+						<p style="font-size:40px; color:orangered">Markers</p>
+
+						<ul>
+							<li class="fragment">Case vs. Test doubling time</li>
+							<li class="fragment">CFR</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>Doubling Times</h3>
+						<img src="images/doubling_rate.png" alt="">
+					</section>
+
+					<section>
+						<h3>CFR</h3>
+						<img src="images/CFR_cases.png" alt="">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h2>4: Next Wave?	</h2>
+						<p style="font-size:40px; color:orangered">Early Warning</p>
+						<ul>
+							<li class="fragment">Test Positivity</li>
+							<li class="fragment">R(t)</li>
+							<li class="fragment">Environmental Surveillance</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>Test Positivity</h3>
+						<img src="images/TP_cases.png" alt="">
+					</section>
+
+					<section>
+						<h3>R(t)</h3>
+						<img src="images/Rt_for_Pune.png" alt="">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h2>5: Variants</h2>
+						<p style="font-size:40px; color:orangered">Back to biology!</p>
+						<ul>
+							<li class="fragment">Reinfections</li>
+							<li class="fragment">Vaccine breakthroughs</li>
+							<li class="fragment">Genomic data + Epi-surveillance</li>
+						</ul>
+					</section>
+				</section>
+
+				<section>
+					<h2>Summary of Activities</h2>
+
+					<div class="r-stack">
+					<ul class="fragment fade-in-then-out">
+						<li>Containment</li>
+						<li>Outcomes</li>
+						<li>End of wave</li>
+						<li>Beginning of wave</li>
+						<li>Variants</li>
+					</ul>
+					<img src="images/Activities_COVID.png" width="600" class="fragment fade-in-then-out">
+					</div>
+				</section>
+
+
+
+				<section>
+					<h2>Way Forward</h2>
+
+					<ul>
+						<li class="fragment">Person, not process!</li>
+						<li class="fragment">Decentralised data sharing and analysis</li>
+						<li class="fragment">Platforms for collection, curation and analysis</li>
+						<li class="fragment">Human-in-the-loop design</li>
+					</ul>
+				</section>
+
+				<section>
+					<h2>References</h2>
+					<small>
+					<ul>
+						<li>Hazra et al. 2021. “The INDSCI-SIM Model for COVID-19 in India.” MedRxiv.
+</li>
+						<li>Zhou, et al. 2020. “Clinical Course and Risk Factors for Mortality of Adult Inpatients with COVID-19 in Wuhan, China: A Retrospective Cohort Study.” The Lancet 395 (10229): 1054–62.
+</li>
+						<li>Ghose et al. 2020. “Community Prevalence of Antibodies to SARS-CoV-2 and Correlates of Protective Immunity in Five Localities in an Indian Metropolitan City.” MedRxiv, November, 2020.11.17.20228155.
+
+</li>
+						<li>Mave et al. 2021. “Impact of National and Regional Lockdowns on Growth of COVID-19 Cases in COVID-Hotspot City of Pune in Western India: A Real-World Data Analysis.” MedRxiv, May, 2021.05.05.21254694.</li>
+					</ul>
+					</small>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/math/math.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath, RevealZoom ]
+			});
+		</script>
+	</body>
+</html>
