@@ -2,47 +2,19 @@
 
 ### Ph.D
 
-* Hardik Shah (August 2020 -- )
+* Hardik Shah (August 2020 -- ): The dynamics underlying South Asian heatwaves.
+* Devosmita Sen (August 2021 -- ): The ecological impacts of extreme heat in South Asian forests.
+* Dilip V (August 2021 -- ): A process-oriented understanding of the diurnal cycle of dry and wet-bulb temperatures in South Asia.
 
 ### Masters
 
-* Jenix Justine from [ACCER](http://accer.kau.in/) (August 2020 -- ) Wetbulb temperature dynamics in South Asia
-* Ashok Dharavath from IISER Pune (October 2020 -- ) PDFs of temperature and humidity in South Asia.
+* Jenix Justine from [ACCER](http://accer.kau.in/) (August 2020 -- September 2021): Wetbulb temperature dynamics in South Asia.
+* Malavika Biju (August 2021 -- May 2022): Development of an topological and geometric algorithm to track Rossby wave packets.
+* Abel Shibu (August 2022 - May 2023): Development of an rare event sampling algorithm in [climt](http://climt.readthedocs.io) to sample heatwaves in an idealized GCM.
+* Sougata Basak from [SPPU](http://www.unipune.ac.in/) (August 2022 -- May 2023): The impact of the North Atlantic on heat transport into the Indian Ocean. **Co-supervised with Aditi Deshpande, SPPU**.
 
 ### Undergraduate
 
-#### 2021
+I work actively with undergraduate students from IISER Pune and some other nearby colleges in Pune on a variety of topics, ranging from climate science, computational science, machine learning and public health.
 
-* Abel Shibu from IISER Pune (Jan -- May 2021) Implementing and exploring extreme event sampling algorithms.
-* Chahana N from IISER Pune (Jan -- May 2021) Wrapping SOCRATES with Python
-* Malavika Biju from IISER Pune (Jan -- May 2021) Packaging and extending a RWP identification
-  framework 
-
-#### 2020
-
-* Abel Shibu from IISER Pune (June -- July 2020) Adding a bucket hydrology component to climt
-
-
-### B.Tech interns
-
-#### 2021
-
-
-#### 2020
-
-1. Curating LST and near surface data from satellites and reanalysis (MIT-WPU, Pune)
-    * Ahmad Jamal
-    * Pratik Gorade
-    * Rishikesh Gadade
-
-
-### COVID-19 data analysis for Pune Municipal Corporation
-
-#### Mostly between July 2020 -- Feb 2021
-
-* Shweta Kadu from Babasaheb Garware College
-* Nikita Raut from Babasaheb Garware College
-* Arsh Shaikh from IISER Pune
-* Kadir Pathan from Pune Knowledge Cluster
-* Devendra Vavale from Pune University
-
+**I normally don't accept undergraduate students in the January semester**.
