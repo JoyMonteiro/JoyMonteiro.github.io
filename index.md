@@ -29,13 +29,6 @@ We are currently interested in the following themes:
 ## Students
 [Current and Alumni Page](./students.md)
 
-## Grants
-
-* IISER Intramural Grant, 2020: 15 lakhs
-* DST Startup Grant 2020-2022: 30 lakhs
-* MoES Monsoon Mission Grant 2023-2026: 1.8 crore (along with 5 other co-PIs from other academic institutions)
-
-
 ## Positions
 I am not actively looking for students right now. However, feel free to write
 to me if you find any of our work interesting!
