@@ -10,8 +10,9 @@
 
 * Jenix Justine from [ACCER](http://accer.kau.in/) (August 2020 -- September 2021): Wetbulb temperature dynamics in South Asia.
 * Malavika Biju (August 2021 -- May 2022): Development of an topological and geometric algorithm to track Rossby wave packets.
-* Abel Shibu (August 2022 - May 2023): Development of an rare event sampling algorithm in [climt](http://climt.readthedocs.io) to sample heatwaves in an idealized GCM.
+* Abel Shibu (August 2022 -- May 2023): Development of an rare event sampling algorithm in [climt](http://climt.readthedocs.io) to sample heatwaves in an idealized GCM.
 * Sougata Basak from [SPPU](http://www.unipune.ac.in/) (August 2022 -- May 2023): The impact of the North Atlantic on heat transport into the Indian Ocean. **Co-supervised with Aditi Deshpande, SPPU**.
+* Soumil Kelkar (August 2023 -- May 2024): The impact of clouds on the reflected spectrum of earth (as an exoplanet). **Co-supervised with Prabal Saxena and Ravi Kopparapu, NASA GSFC**.
 
 ### Undergraduate
 
