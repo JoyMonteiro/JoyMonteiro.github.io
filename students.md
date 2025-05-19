@@ -22,7 +22,7 @@
   * Currently PhD student at University of Tasmania.
 * Soumil Kelkar (August 2023 -- May 2024) **Co-supervised with Prabal Saxena and Ravi Kopparapu, NASA GSFC**.
   * The impact of clouds on the reflected spectrum of earth (as an exoplanet).
-  * PhD student at University of Groningen.
+  * Currently PhD student at University of Groningen.
 * Shijil Amin (August 2024 -- May 2025)
   * Development of a tidally locked GCM using climt and studying the impact of surface roughness on the general circulation
 * Kashika Singh (August 2024 -- May 2025) **Co-supervised with Jonas Nycander, Stockholm University**.
